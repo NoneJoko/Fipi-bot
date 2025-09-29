@@ -1,4 +1,0 @@
-gtts
-flask  # или fastapi, или другая библиотека, с которой вы работаете
-pyTelegramBotAPI
-python-dotenv
